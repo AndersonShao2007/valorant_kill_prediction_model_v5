@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+.DS_Store
+.apify_token
+api_data/raw/
+line_history/raw/
+*.pyc
+
+# Local/obsolete model copies. Keep model_output/production_model.json tracked.
+model_output_v5_candidate/
+model_output/*backup*.json
+model_output/*before*.json
+model_output/production_model_legacy.json
+
+# Generated user-specific prediction outputs.
+future_predictions.csv
+ranked_predictions.csv
+apify_future_lines.csv
+apify_predictions_latest.csv
+apify_ranked_predictions.csv

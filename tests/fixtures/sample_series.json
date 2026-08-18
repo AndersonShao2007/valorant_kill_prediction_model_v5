@@ -1,0 +1,47 @@
+{
+  "source": "vlrdevapi",
+  "fetched_at": "2026-08-14T12:00:00+00:00",
+  "series_id": 999001,
+  "info": {
+    "series_id": 999001,
+    "status": "completed",
+    "team1": {"id": 101, "name": "Test Alpha", "tag": "ALP"},
+    "team2": {"id": 202, "name": "Test Beta", "tag": "BET"},
+    "score1": 2,
+    "score2": 0,
+    "best_of": 3,
+    "event_id": 55,
+    "event_name": "Importer Test Event",
+    "stage": "Playoffs",
+    "bracket": "Upper Round",
+    "datetime": "2026-08-14T10:00:00+00:00",
+    "games": [
+      {"game_id": 7001, "order": 1, "map_name": "Ascent", "played": true, "team1_score": 13, "team2_score": 9},
+      {"game_id": 7002, "order": 2, "map_name": "Haven", "played": true, "team1_score": 13, "team2_score": 11}
+    ]
+  },
+  "players": [
+    {
+      "series_id": 999001, "game_id": "7001", "map_name": "Ascent",
+      "team1": {"team_id": 101, "team_name": "Test Alpha", "players": [
+        {"player_id": 1, "name": "alpha1", "agents": ["Jett"], "stats": {"overall": {"rating": 1.2, "acs": 240, "kills": 20, "deaths": 15, "assists": 4, "adr": 155, "hs_percent": 30, "first_kills": 4, "first_deaths": 2}}}
+      ]},
+      "team2": {"team_id": 202, "team_name": "Test Beta", "players": [
+        {"player_id": 2, "name": "beta1", "agents": ["Omen"], "stats": {"overall": {"rating": 0.9, "acs": 180, "kills": 15, "deaths": 20, "assists": 8, "adr": 120, "hs_percent": 25, "first_kills": 2, "first_deaths": 4}}}
+      ]}
+    },
+    {
+      "series_id": 999001, "game_id": "7002", "map_name": "Haven",
+      "team1": {"team_id": 101, "team_name": "Test Alpha", "players": [
+        {"player_id": 1, "name": "alpha1", "agents": ["Sova"], "stats": {"overall": {"rating": 1.1, "acs": 220, "kills": 19, "deaths": 17, "assists": 9, "adr": 145, "hs_percent": 28, "first_kills": 3, "first_deaths": 2}}}
+      ]},
+      "team2": {"team_id": 202, "team_name": "Test Beta", "players": [
+        {"player_id": 2, "name": "beta1", "agents": ["Cypher"], "stats": {"overall": {"rating": 0.95, "acs": 190, "kills": 17, "deaths": 19, "assists": 6, "adr": 125, "hs_percent": 26, "first_kills": 2, "first_deaths": 3}}}
+      ]}
+    }
+  ],
+  "rounds": [
+    {"series_id": 999001, "game_id": 7001, "rounds": []},
+    {"series_id": 999001, "game_id": 7002, "rounds": []}
+  ]
+}

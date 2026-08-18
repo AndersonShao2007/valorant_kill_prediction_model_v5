@@ -1,0 +1,101 @@
+last_seen,match_id,event,team1,team2,scope,decision,reason
+2026-08-17T06:03:40.039484+00:00,698910,VCT 2026: Pacific Stage 2,Team Secret,DetonatioN FocusMe,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,698911,VCT 2026: Pacific Stage 2,Gen.G,FULL SENSE,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,698912,VCT 2026: Pacific Stage 2,KIWOOM DRX,T1,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,698913,VCT 2026: Pacific Stage 2,Global Esports,ZETA DIVISION,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,698914,VCT 2026: Pacific Stage 2,VARREL,Paper Rex,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,698915,VCT 2026: Pacific Stage 2,Nongshim RedForce,Rex Regum Qeon,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,706372,VCT 2026: Americas Stage 2,Evil Geniuses,FURIA,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,706373,VCT 2026: Americas Stage 2,ENVY,NRG,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,706374,VCT 2026: Americas Stage 2,100 Thieves,Cloud9,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,706375,VCT 2026: Americas Stage 2,G2 Esports,LOUD,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,706376,VCT 2026: Americas Stage 2,KRÜ Esports,Sentinels,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,706377,VCT 2026: Americas Stage 2,LEVIATÁN,MIBR,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,706378,VCT 2026: Americas Stage 2,Evil Geniuses,NRG,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,706379,VCT 2026: Americas Stage 2,LOUD,100 Thieves,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,716630,Game Changers 2026: EMEA Stage 3,G2 Gozen,GIANTX GC,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,716632,Game Changers 2026: EMEA Stage 3,Gentle Mates GC,Twisted Minds Orchid,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,716633,Game Changers 2026: EMEA Stage 3,FOKUS Sakura,ALTERNATE aTTaX Ruby,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,716634,Game Changers 2026: EMEA Stage 3,FOKUS Sakura,Habos Babos,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,716635,Game Changers 2026: EMEA Stage 3,GIANTX GC,Karmine Corp GC,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,716636,Game Changers 2026: EMEA Stage 3,Gentle Mates GC,ALTERNATE aTTaX Ruby,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,724621,VCT 2026: China Stage 2,FunPlus Phoenix,JD Gaming,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,724622,VCT 2026: China Stage 2,Wolves Esports,Dragon Ranger Gaming,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,724623,VCT 2026: China Stage 2,All Gamers,Trace Esports,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,724624,VCT 2026: China Stage 2,EDward Gaming,Titan Esports Club,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,724625,VCT 2026: China Stage 2,A Team,Wolves Esports,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,724626,VCT 2026: China Stage 2,KeepBest Gaming,FunPlus Phoenix,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,724627,VCT 2026: China Stage 2,EDward Gaming,Wolves Esports,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,724628,VCT 2026: China Stage 2,Trace Esports,FunPlus Phoenix,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,724629,VCT 2026: China Stage 2,All Gamers,JD Gaming,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,724630,VCT 2026: China Stage 2,Titan Esports Club,Dragon Ranger Gaming,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,724631,VCT 2026: China Stage 2,JD Gaming,EDward Gaming,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,724632,VCT 2026: China Stage 2,Dragon Ranger Gaming,Trace Esports,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,724633,VCT 2026: China Stage 2,All Gamers,Titan Esports Club,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,724634,VCT 2026: China Stage 2,JD Gaming,Trace Esports,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,724638,VCT 2026: China Stage 2,TYLOO,Titan Esports Club,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,724639,VCT 2026: China Stage 2,Nova Esports,JD Gaming,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,724640,VCT 2026: China Stage 2,Xi Lai Gaming,All Gamers,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,724641,VCT 2026: China Stage 2,Bilibili Gaming,Trace Esports,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,724646,VCT 2026: China Stage 2,Titan Esports Club,Nova Esports,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,724647,VCT 2026: China Stage 2,All Gamers,Trace Esports,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729664,VCT 2026: EMEA Stage 2,GIANTX,Eintracht Frankfurt,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,729665,VCT 2026: EMEA Stage 2,Natus Vincere,Joblife,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,729666,VCT 2026: EMEA Stage 2,PCIFIC Esports,Fire Flux Esports,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,729667,VCT 2026: EMEA Stage 2,FNATIC,Enterprise Esports,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,729668,VCT 2026: EMEA Stage 2,FUT Esports,GIANTX,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,729669,VCT 2026: EMEA Stage 2,Eternal Fire,Joblife,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,729670,VCT 2026: EMEA Stage 2,Team Heretics,Fire Flux Esports,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,729671,VCT 2026: EMEA Stage 2,Gentle Mates,Enterprise Esports,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,729672,VCT 2026: EMEA Stage 2,FUT Esports,Eternal Fire,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729673,VCT 2026: EMEA Stage 2,Fire Flux Esports,Enterprise Esports,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729674,VCT 2026: EMEA Stage 2,Gentle Mates,Eintracht Frankfurt,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,729675,VCT 2026: EMEA Stage 2,Team Heretics,Natus Vincere,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,729676,VCT 2026: EMEA Stage 2,Joblife,PCIFIC Esports,relevant,skip,already imported
+2026-08-17T06:03:40.039484+00:00,729677,VCT 2026: EMEA Stage 2,GIANTX,FNATIC,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729678,VCT 2026: EMEA Stage 2,Eintracht Frankfurt,Team Heretics,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729680,VCT 2026: EMEA Stage 2,Joblife,FNATIC,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729681,VCT 2026: EMEA Stage 2,Eternal Fire,Eintracht Frankfurt,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729682,VCT 2026: EMEA Stage 2,Fire Flux Esports,Joblife,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729742,VCT 2026: Americas Stage 2,KRÜ Esports,BESTIA,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729743,VCT 2026: Americas Stage 2,ENVY,M80,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729744,VCT 2026: Americas Stage 2,FURIA,2Game Esports,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729745,VCT 2026: Americas Stage 2,Cloud9,Fluxo W7M,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729746,VCT 2026: Americas Stage 2,MIBR,KRÜ Esports,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729747,VCT 2026: Americas Stage 2,Sentinels,ENVY,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729748,VCT 2026: Americas Stage 2,G2 Esports,FURIA,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,729749,VCT 2026: Americas Stage 2,Evil Geniuses,Cloud9,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,730256,Game Changers 2026: North America Stage 2,Shopify Rebellion Gold,Axolotl,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,730260,Game Changers 2026: North America Stage 2,SwimTrek Blue,HIMMERS,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,730319,Game Changers 2026: LATAM Main Event,Akave Esports GC,No Sweat Blossom,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,730321,Game Changers 2026: LATAM Main Event,MYVRA GC,FUSION X,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,730326,Game Changers 2026: LATAM Main Event,KRÜ BLAZE,Looking For Laburo,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,730328,Game Changers 2026: LATAM Main Event,NPC TEAM,Olimpo Gold,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,730535,VCT 2026: Pacific Stage 2,KIWOOM DRX,ONSIDE GAMING,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,730536,VCT 2026: Pacific Stage 2,Rex Regum Qeon,Sharper Esports,relevant,defer,beyond max-new limit (25)
+2026-08-17T06:03:40.039484+00:00,730537,VCT 2026: Pacific Stage 2,FULL SENSE,QT DIG∞,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,730538,VCT 2026: Pacific Stage 2,Team Secret,Xipto Esports,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,730539,VCT 2026: Pacific Stage 2,ZETA DIVISION,KIWOOM DRX,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,730540,VCT 2026: Pacific Stage 2,DetonatioN FocusMe,Sharper Esports,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,730541,VCT 2026: Pacific Stage 2,T1,FULL SENSE,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,730542,VCT 2026: Pacific Stage 2,Nongshim RedForce,Team Secret,relevant,include,tier-1 VCT event
+2026-08-17T06:03:40.039484+00:00,731768,Game Changers 2026: Brazil Finals,MIBR GC,GATO PENSANTE,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,731769,Game Changers 2026: Brazil Finals,Ushiras,7VEN STARS,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,731770,Game Changers 2026: Brazil Finals,Team Liquid Brazil,Evils of Delusion,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,731771,Game Changers 2026: Brazil Finals,Evil Geniuses GC,Arashi GC,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732639,Game Changers 2026: EMEA Stage 3,Karmine Corp GC,Joblife Nanas,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732640,Game Changers 2026: EMEA Stage 3,ALTERNATE aTTaX Ruby,Lost Puppies GC,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732641,Game Changers 2026: EMEA Stage 3,Barça eSports GC,Mom Said No,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732642,Game Changers 2026: EMEA Stage 3,GIANTX GC,FALKE VENOM,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732643,Game Changers 2026: EMEA Stage 3,Karmine Corp GC,ALTERNATE aTTaX Ruby,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732644,Game Changers 2026: EMEA Stage 3,Barça eSports GC,GIANTX GC,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732786,Game Changers 2026: EMEA Stage 3,G2 Gozen,ALTERNATE aTTaX Ruby,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732787,Game Changers 2026: EMEA Stage 3,FOKUS Sakura,Gentle Mates GC,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732788,Game Changers 2026: EMEA Stage 3,Habos Babos,GIANTX GC,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732789,Game Changers 2026: EMEA Stage 3,Twisted Minds Orchid,SK Nebula,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732790,Game Changers 2026: EMEA Stage 3,G2 Gozen,Gentle Mates GC,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732791,Game Changers 2026: EMEA Stage 3,GIANTX GC,SK Nebula,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732794,Game Changers 2026: EMEA Stage 3,ALTERNATE aTTaX Ruby,FOKUS Sakura,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,732795,Game Changers 2026: EMEA Stage 3,Habos Babos,Twisted Minds Orchid,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,734794,Game Changers 2026: North America Stage 2,SEN Otters,HIMMERS,relevant,exclude,excluded category: game changers
+2026-08-17T06:03:40.039484+00:00,734796,Game Changers 2026: North America Stage 2,MVSK Secret,The Spiders,relevant,exclude,excluded category: game changers

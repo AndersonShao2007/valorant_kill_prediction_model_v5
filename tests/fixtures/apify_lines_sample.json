@@ -1,0 +1,42 @@
+[
+  {
+    "id": "projection-1",
+    "player_name": "zekken",
+    "line_score": 33,
+    "stat_type": "Maps 1-2 Kills",
+    "league": "VAL",
+    "team": "MIBR",
+    "opponent": "KRU",
+    "start_time": "2026-08-18T20:00:00Z",
+    "projection_type": "standard"
+  },
+  {
+    "id": "projection-2",
+    "player": {"name": "MaKo", "team": "DRX"},
+    "line": 29.5,
+    "market": "Map 1-2 Kills",
+    "league_name": "Valorant",
+    "opponent_name": "ZETA",
+    "scheduled_at": "2026-08-18T23:00:00Z"
+  },
+  {
+    "id": "projection-3",
+    "player_name": "Example",
+    "line_score": 7.5,
+    "stat_type": "Assists",
+    "league": "NBA",
+    "team": "LAL",
+    "opponent": "BOS",
+    "start_time": "2026-08-18T23:00:00Z"
+  },
+  {
+    "id": "projection-4",
+    "player_name": "Unknown",
+    "line_score": 25.5,
+    "stat_type": "Maps 1-2 Kills",
+    "league": "VAL",
+    "team": "Random College",
+    "opponent": "Weekly Cup",
+    "start_time": "2026-08-18T23:00:00Z"
+  }
+]

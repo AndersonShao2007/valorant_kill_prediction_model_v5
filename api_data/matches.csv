@@ -1,0 +1,45 @@
+series_id,match_date,year,event_id,tournament,stage,match_type,match_name,team_a_id,team_a,team_b_id,team_b,team_a_score,team_b_score,best_of,status,source_url
+698914,2026-08-09,2026,2776,VCT 2026: Pacific Stage 2,Group Stage,Week 4,VARREL vs Paper Rex,11229,VARREL,624,Paper Rex,2,0,3,completed,https://www.vlr.gg/698914/
+698915,2026-08-09,2026,2776,VCT 2026: Pacific Stage 2,Group Stage,Week 4,Nongshim RedForce vs Rex Regum Qeon,11060,Nongshim RedForce,878,Rex Regum Qeon,1,2,3,completed,https://www.vlr.gg/698915/
+706378,2026-08-09,2026,2977,VCT 2026: Americas Stage 2,Group Stage,Week 4,Evil Geniuses vs NRG,5248,Evil Geniuses,1034,NRG,0,2,3,completed,https://www.vlr.gg/706378/
+706379,2026-08-09,2026,2977,VCT 2026: Americas Stage 2,Group Stage,Week 4,LOUD vs 100 Thieves,6961,LOUD,120,100 Thieves,0,2,3,completed,https://www.vlr.gg/706379/
+724627,2026-08-09,2026,2978,VCT 2026: China Stage 2,Play-Ins,Lower Round 2,EDward Gaming vs Wolves Esports,1120,EDward Gaming,13790,Wolves Esports,2,1,3,completed,https://www.vlr.gg/724627/
+724628,2026-08-09,2026,2978,VCT 2026: China Stage 2,Play-Ins,Lower Round 2,Trace Esports vs FunPlus Phoenix,12685,Trace Esports,11328,FunPlus Phoenix,2,0,3,completed,https://www.vlr.gg/724628/
+724629,2026-08-10,2026,2978,VCT 2026: China Stage 2,Play-Ins,Upper Semifinals,All Gamers vs JD Gaming,1119,All Gamers,13576,JD Gaming,2,0,3,completed,https://www.vlr.gg/724629/
+724630,2026-08-10,2026,2978,VCT 2026: China Stage 2,Play-Ins,Upper Semifinals,Wuxi Titan Esports Club(Titan Esports Club) vs Dragon Ranger Gaming,14137,Wuxi Titan Esports Club(Titan Esports Club),11981,Dragon Ranger Gaming,2,1,3,completed,https://www.vlr.gg/724630/
+724631,2026-08-11,2026,2978,VCT 2026: China Stage 2,Play-Ins,Lower Round 3,JD Gaming vs EDward Gaming,13576,JD Gaming,1120,EDward Gaming,2,0,3,completed,https://www.vlr.gg/724631/
+724632,2026-08-11,2026,2978,VCT 2026: China Stage 2,Play-Ins,Lower Round 3,Dragon Ranger Gaming vs Trace Esports,11981,Dragon Ranger Gaming,12685,Trace Esports,1,2,3,completed,https://www.vlr.gg/724632/
+724633,2026-08-12,2026,2978,VCT 2026: China Stage 2,Play-Ins,Upper Final,All Gamers vs Wuxi Titan Esports Club(Titan Esports Club),1119,All Gamers,14137,Wuxi Titan Esports Club(Titan Esports Club),1,2,3,completed,https://www.vlr.gg/724633/
+724634,2026-08-12,2026,2978,VCT 2026: China Stage 2,Play-Ins,Lower Final,JD Gaming vs Trace Esports,13576,JD Gaming,12685,Trace Esports,0,2,3,completed,https://www.vlr.gg/724634/
+724638,2026-08-14,2026,2978,VCT 2026: China Stage 2,Playoffs,Upper Quarterfinals,TYLOO vs Wuxi Titan Esports Club(Titan Esports Club),731,TYLOO,14137,Wuxi Titan Esports Club(Titan Esports Club),2,0,3,completed,https://www.vlr.gg/724638/
+724639,2026-08-14,2026,2978,VCT 2026: China Stage 2,Playoffs,Upper Quarterfinals,Nova Esports vs JD Gaming,12064,Nova Esports,13576,JD Gaming,0,2,3,completed,https://www.vlr.gg/724639/
+724640,2026-08-15,2026,2978,VCT 2026: China Stage 2,Playoffs,Upper Quarterfinals,Xi Lai Gaming vs All Gamers,13581,Xi Lai Gaming,1119,All Gamers,2,1,3,completed,https://www.vlr.gg/724640/
+724641,2026-08-15,2026,2978,VCT 2026: China Stage 2,Playoffs,Upper Quarterfinals,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming) vs Trace Esports,12010,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),12685,Trace Esports,2,1,3,completed,https://www.vlr.gg/724641/
+724646,2026-08-16,2026,2978,VCT 2026: China Stage 2,Playoffs,Lower Round 1,Wuxi Titan Esports Club(Titan Esports Club) vs Nova Esports,14137,Wuxi Titan Esports Club(Titan Esports Club),12064,Nova Esports,0,2,3,completed,https://www.vlr.gg/724646/
+724647,2026-08-16,2026,2978,VCT 2026: China Stage 2,Playoffs,Lower Round 1,All Gamers vs Trace Esports,1119,All Gamers,12685,Trace Esports,2,1,3,completed,https://www.vlr.gg/724647/
+729670,2026-08-09,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Upper Quarterfinals,Team Heretics vs Fire Flux Esports,1001,Team Heretics,20085,Fire Flux Esports,1,2,3,completed,https://www.vlr.gg/729670/
+729671,2026-08-09,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Upper Quarterfinals,Gentle Mates vs Enterprise Esports,12694,Gentle Mates,876,Enterprise Esports,0,2,3,completed,https://www.vlr.gg/729671/
+729672,2026-08-15,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Upper Semifinals,FUT Esports vs Eternal Fire,1184,FUT Esports,6392,Eternal Fire,2,0,3,completed,https://www.vlr.gg/729672/
+729673,2026-08-15,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Upper Semifinals,Fire Flux Esports vs Enterprise Esports,20085,Fire Flux Esports,876,Enterprise Esports,0,2,3,completed,https://www.vlr.gg/729673/
+729674,2026-08-12,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Lower Round 1,Gentle Mates vs Eintracht Frankfurt,12694,Gentle Mates,14478,Eintracht Frankfurt,0,2,3,completed,https://www.vlr.gg/729674/
+729675,2026-08-12,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Lower Round 1,Team Heretics vs Natus Vincere,1001,Team Heretics,4915,Natus Vincere,2,1,3,completed,https://www.vlr.gg/729675/
+729676,2026-08-13,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Lower Round 1,Joblife vs PCIFIC Esports,11232,Joblife,3478,PCIFIC Esports,2,1,3,completed,https://www.vlr.gg/729676/
+729677,2026-08-13,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Lower Round 1,GIANTX vs FNATIC,14419,GIANTX,2593,FNATIC,0,2,3,completed,https://www.vlr.gg/729677/
+729678,2026-08-14,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Lower Round 2,Eintracht Frankfurt vs Team Heretics,14478,Eintracht Frankfurt,1001,Team Heretics,2,0,3,completed,https://www.vlr.gg/729678/
+729680,2026-08-14,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Lower Round 2,Joblife vs FNATIC,11232,Joblife,2593,FNATIC,2,0,3,completed,https://www.vlr.gg/729680/
+729681,2026-08-16,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Lower Round 3,Eternal Fire vs Eintracht Frankfurt,6392,Eternal Fire,14478,Eintracht Frankfurt,0,2,3,completed,https://www.vlr.gg/729681/
+729682,2026-08-16,2026,2976,VCT 2026: EMEA Stage 2,Play-Ins,Lower Round 3,Fire Flux Esports vs Joblife,20085,Fire Flux Esports,11232,Joblife,2,0,3,completed,https://www.vlr.gg/729682/
+729742,2026-08-13,2026,2977,VCT 2026: Americas Stage 2,Play-Ins,Upper Round 1,KRÜ Esports vs BESTIA,2355,KRÜ Esports,22142,BESTIA,2,1,3,completed,https://www.vlr.gg/729742/
+729743,2026-08-13,2026,2977,VCT 2026: Americas Stage 2,Play-Ins,Upper Round 1,ENVY vs M80,427,ENVY,11001,M80,2,0,3,completed,https://www.vlr.gg/729743/
+729744,2026-08-14,2026,2977,VCT 2026: Americas Stage 2,Play-Ins,Upper Round 1,FURIA vs 2Game Esports,2406,FURIA,15072,2Game Esports,2,1,3,completed,https://www.vlr.gg/729744/
+729745,2026-08-15,2026,2977,VCT 2026: Americas Stage 2,Play-Ins,Upper Round 1,Cloud9 vs Fluxo W7M,188,Cloud9,23141,Fluxo W7M,2,1,3,completed,https://www.vlr.gg/729745/
+729746,2026-08-15,2026,2977,VCT 2026: Americas Stage 2,Play-Ins,Upper Quarterfinals,MIBR vs KRÜ Esports,7386,MIBR,2355,KRÜ Esports,2,0,3,completed,https://www.vlr.gg/729746/
+729747,2026-08-15,2026,2977,VCT 2026: Americas Stage 2,Play-Ins,Upper Quarterfinals,Sentinels vs ENVY,2,Sentinels,427,ENVY,0,2,3,completed,https://www.vlr.gg/729747/
+729748,2026-08-16,2026,2977,VCT 2026: Americas Stage 2,Play-Ins,Upper Quarterfinals,G2 Esports vs FURIA,11058,G2 Esports,2406,FURIA,1,2,3,completed,https://www.vlr.gg/729748/
+729749,2026-08-17,2026,2977,VCT 2026: Americas Stage 2,Play-Ins,Upper Quarterfinals,Evil Geniuses vs Cloud9,5248,Evil Geniuses,188,Cloud9,2,1,3,completed,https://www.vlr.gg/729749/
+730537,2026-08-14,2026,2776,VCT 2026: Pacific Stage 2,Play-Ins,Upper Round 1,FULL SENSE vs QT DIG∞,4050,FULL SENSE,18299,QT DIG∞,2,1,3,completed,https://www.vlr.gg/730537/
+730538,2026-08-14,2026,2776,VCT 2026: Pacific Stage 2,Play-Ins,Upper Round 1,Team Secret vs Xipto Esports,6199,Team Secret,17167,Xipto Esports,2,0,3,completed,https://www.vlr.gg/730538/
+730539,2026-08-15,2026,2776,VCT 2026: Pacific Stage 2,Play-Ins,Upper Quarterfinals,ZETA DIVISION vs KIWOOM DRX,5448,ZETA DIVISION,8185,KIWOOM DRX,1,2,3,completed,https://www.vlr.gg/730539/
+730540,2026-08-15,2026,2776,VCT 2026: Pacific Stage 2,Play-Ins,Upper Quarterfinals,DetonatioN FocusMe vs Sharper Esports,278,DetonatioN FocusMe,623,Sharper Esports,1,2,3,completed,https://www.vlr.gg/730540/
+730541,2026-08-16,2026,2776,VCT 2026: Pacific Stage 2,Play-Ins,Upper Quarterfinals,T1 vs FULL SENSE,14,T1,4050,FULL SENSE,2,0,3,completed,https://www.vlr.gg/730541/
+730542,2026-08-16,2026,2776,VCT 2026: Pacific Stage 2,Play-Ins,Upper Quarterfinals,Nongshim RedForce vs Team Secret,11060,Nongshim RedForce,6199,Team Secret,2,0,3,completed,https://www.vlr.gg/730542/
